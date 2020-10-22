@@ -200,7 +200,7 @@ function addDepartment() {
       })
       beginPrompt(); 
   })
-  console.log(answer);
+  
 };
 
 function addEmployee() {
